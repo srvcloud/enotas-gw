@@ -1,0 +1,36 @@
+{
+    "name": "srvcloud/enotas-gw",
+    "description": "Um php-client melhorado para a integração com oa maravilhosa API do https://enotas.com.br/gateway. Apenas V1(por enquanto)",
+    "type": "lib",
+    "keywords": [
+      "e-notas",
+      "enotas",
+      "nota fiscal",
+      "notas fiscais",
+      "emitir notas fiscais",
+      "servicos",
+      "api"
+    ],
+    "homepage": "https://srvcloud.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SRVCloud",
+            "email": "contato@srvcloud.com.br"
+        },
+        {
+            "name": "Hugo Zabini",
+            "email": "hugo.zabini98@hotmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.0",
+      "guzzlehttp/guzzle": ">=6.3"
+    },
+    "require-dev": {},
+    "autoload": {
+      "psr-4": {
+        "Enotas\\": "src/"
+      }
+    }
+}
