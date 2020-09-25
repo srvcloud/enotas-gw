@@ -1,0 +1,60 @@
+{
+  "id": "aa11bb22-cc33-44dd-5e5e-ff66ff66ff66",
+  "tipo": "NFS-e",
+  "idExterno": "HOM99999",
+  "status": "Autorizada",
+  "motivoStatus": null,
+  "ambienteEmissao": "Producao",
+  "enviadaPorEmail": true,
+  "dataCriacao": "2020-09-24T14:01:02Z",
+  "dataUltimaAlteracao": "2020-09-24T18:31:26Z",
+  "cliente": {
+      "tipoPessoa": "F",
+      "nome": "Eliyahu Ben-Shaul Cohen",
+      "email": "cliente.email@exemple.com",
+      "cpfCnpj": "99999999999",
+      "inscricaoMunicipal": null,
+      "telefone": "6927365973",
+      "endereco": {
+          "pais": "Brasil",
+          "uf": "SP",
+          "cidade": "São Paulo",
+          "logradouro": "Av. Paulista",
+          "numero": "1842",
+          "complemento": null,
+          "bairro": "Bela Vista",
+          "cep": "01310923"
+      }
+  },
+  "dadosAdicionaisEmail": {
+      "outrosDestinatarios": "vendedor.email@exemple.com; contador.email@exemple.com"
+  },
+  "numero": "202099999999999",
+  "codigoVerificacao": "AB9C-DEF9",
+  "chaveAcesso": null,
+  "dataAutorizacao": "2020-09-24T14:01:39Z",
+  "linkDownloadPDF": "http://api.enotasgw.com.br/file/xxx/yyy/pdf",
+  "linkDownloadXML": "http://api.enotasgw.com.br/file/xxx/yyy/xml",
+  "numeroRps": 1,
+  "serieRps": "NFSE",
+  "dataCompetenciaRps": "2020-09-24T14:01:02Z",
+  "servico": {
+      "descricao": "Descrição do serviço",
+      "aliquotaIss": 0,
+      "issRetidoFonte": false,
+      "codigoServicoMunicipio": "0.00",
+      "itemListaServicoLC116": null,
+      "cnae": null,
+      "municipioPrestacaoServico": 999999
+  },
+  "naturezaOperacao": "999",
+  "valorCofins": 0,
+  "valorCsll": 0,
+  "valorInss": 0,
+  "valorIr": 0,
+  "valorPis": 0,
+  "valorTotal": 1,
+  "valorIss": 0,
+  "observacoes": "Valor aprox dos tributos: R$ 1,00 | Fonte: IBPT",
+  "metadados": {}
+}
