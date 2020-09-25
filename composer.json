@@ -32,12 +32,12 @@
     },
     "autoload": {
       "psr-4": {
-        "Enotas\\": "src/"
+        "Enotas\\": "src/",
+        "Enotas\\Test\\": "tests/"
       }
     },
     "autoload-dev": {
       "psr-4": {
-        "Enotas\\Test\\": "tests/"
       }
     }
 }
